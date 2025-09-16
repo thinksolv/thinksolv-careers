@@ -1,19 +1,18 @@
 # Role: Graphic Designer & YouTube Video Editor (On-Premise Internship)
 
 **Location:** On-Premise (Office-based)  - Thinksolv Technologies, KCT Tech Park, Saravanampatti, Coimbatore
-**Stipend:** ₹10,000 per month  
-**Duration:** Internship (with the possibility of full-time employment)  
-**Tools Provided:** Laptop and required software  
 
----
+**Stipend:** ₹10,000 per month  
+
+**Duration:** Internship (with the possibility of full-time employment)
+
+**Tools Provided:** Laptop and required software  
 
 ## About Us
 
 Thinksolv Technologies Private Limited builds productivity tools for Google Workspace users, including Merge Docs Pro, Docs to Markdown Pro, and Docs to PDF Pro. Our products are trusted by professionals worldwide to simplify workflows and improve efficiency.  
 
 We are seeking a Graphic Designer & YouTube Video Editor to create professional product explainer and demo videos for our YouTube channel and documentation.  
-
----
 
 ## Responsibilities
 
@@ -23,8 +22,6 @@ We are seeking a Graphic Designer & YouTube Video Editor to create professional 
 - Add annotations, callouts, and text overlays to highlight product features.  
 - Collaborate with the team to prepare scripts and storyboards.  
 
----
-
 ## Required Skills
 
 - Proficiency in video editing software (Adobe Premiere Pro, After Effects, Final Cut Pro, or WonderShare DemoCreator).  
@@ -33,13 +30,9 @@ We are seeking a Graphic Designer & YouTube Video Editor to create professional 
 - Basic familiarity with Google Workspace and Microsoft Office.  
 - Experience with WonderShare DemoCreator will be considered an advantage.  
 
----
-
 ## Selection Process
 
 Shortlisted candidates will be required to create a two-minute demo video demonstrating one of our applications (Merge Docs Pro, Docs to Markdown Pro, or Docs to PDF Pro). This will be used to evaluate editing style, clarity, and presentation quality.  
-
----
 
 ## Benefits
 
