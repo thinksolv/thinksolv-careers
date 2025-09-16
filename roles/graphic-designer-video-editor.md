@@ -28,6 +28,7 @@ We are seeking a YouTube Video Editor & Graphic Designer to create professional 
 - Strong understanding of graphic design, typography, and motion graphics.  
 - Ability to communicate complex processes clearly through visuals.  
 - Good command of English with clear articulation and fluency for professional video narration or scripting.  
+- Capacity to quickly understand technology products and applications in order to create accurate and meaningful demo videos.  
 - Basic familiarity with Google Workspace and Microsoft Office.  
 - Experience with WonderShare DemoCreator will be considered an advantage.  
 - Mobile-based video creation/editing **will not be accepted**. Only desktop/laptop-based editing is allowed.  
