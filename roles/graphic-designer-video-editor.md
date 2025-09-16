@@ -30,6 +30,7 @@ We are seeking a YouTube Video Editor & Graphic Designer to create professional 
 - Good command of English with clear articulation and fluency for professional video narration or scripting.  
 - Basic familiarity with Google Workspace and Microsoft Office.  
 - Experience with WonderShare DemoCreator will be considered an advantage.  
+- Mobile-based video creation/editing **will not be accepted**. Only desktop/laptop-based editing is allowed.  
 
 ## Selection Process  
 
