@@ -32,7 +32,7 @@ We are seeking a Graphic Designer & YouTube Video Editor to create professional 
 
 ## Selection Process
 
-Shortlisted candidates will be required to create a two-minute demo video demonstrating one of our applications (Merge Docs Pro, Docs to Markdown Pro, or Docs to PDF Pro). This will be used to evaluate editing style, clarity, and presentation quality.  
+Shortlisted candidates will be required to create a two-minute demo video demonstrating any application of your choice . This will be used to evaluate editing style, clarity, and presentation quality.  
 
 ## Benefits
 
