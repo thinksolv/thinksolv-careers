@@ -16,12 +16,12 @@ We are seeking a YouTube Video Editor & Graphic Designer to create professional 
 
 ## Responsibilities  
 
-- Create high-quality product explainer and demo videos (2–5 minutes).  
-- Edit screen recordings using [WonderShare DemoCreator](https://democreator.wondershare.com/ad/screen-recorder-brand-2024.html) (with AI voiceovers) or similar professional tools.  
-- Design thumbnails, intro/outro animations, and motion graphics in line with brand guidelines.  
-- Add annotations, callouts, and text overlays to highlight product features.  
-- Collaborate with the team to review scripts and designs.  
-
+- Create high-quality product demo videos that clearly communicate product features and benefits.
+- Edit screen recordings using [WonderShare DemoCreator](https://democreator.wondershare.com/ad/screen-recorder-brand-2024.html) (with AI voiceovers) or similar professional video-editing tools.
+- Review scripts and designs collaboratively with the team to ensure content quality and accuracy.
+- Apply creativity while maintaining brand guidelines to make videos engaging, clear, and visually consistent.
+- Ensure the quality and consistency of published videos, including visuals, audio, and overall presentation.
+ 
 ## Required Skills  
 
 - Proficiency in video editing software (Wondershare DemoCreator, After Effects, Final Cut Pro, or Adobe Premiere Pro).  
